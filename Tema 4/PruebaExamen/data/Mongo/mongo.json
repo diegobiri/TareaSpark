@@ -1,0 +1,30 @@
+[
+    {
+        "dni": "12345",
+        "nombre": "Rafael",
+        "idDepartamento": 1,
+        "apellido": "Alamanac",
+        "fechaNacimiento": "0001-01-01T00:00:00"
+    },
+    {
+        "dni": "123456",
+        "nombre": "Biri",
+        "idDepartamento": 1,
+        "apellido": "Alamanac",
+        "fechaNacimiento": "0001-01-01T00:00:00"
+    },
+    {
+        "dni": "1234567",
+        "nombre": "Javier",
+        "idDepartamento": 1,
+        "apellido": "Pedro",
+        "fechaNacimiento": "0001-01-01T00:00:00"
+    },
+    {
+        "dni": "12345678",
+        "nombre": "Jesus",
+        "idDepartamento": 2,
+        "apellido": "Rambo",
+        "fechaNacimiento": "0001-01-01T00:00:00"
+    }
+]

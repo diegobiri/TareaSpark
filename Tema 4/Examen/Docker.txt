@@ -1,0 +1,5 @@
+docker run -d -p 27017:27017 --name mongoBDA -v mongoVolume:/data/db -e MONGODB_INITDB_ROOT_USERNAME=bda -e MONGODB_INITDB_ROOT_PASSWORD=bdaPass mongo:latest
+80aa0c4e6a71d9a0d1e6148a2f4097e2fabdd34b682112f5ccb24517692606fb
+PS C:\Users\rafael> docker run --name mysqlBDA -e MYSQL_ROOT_PASSWORD=bdaPass -d -p 3306:3306 -v mysqlVolume:/var/lib/mysql mysql
+a19c70c73daddab15d9feb3d33526973cc0be9041f55731ac75d2325dd99c054
+PS C:\Users\rafael> docker run --publish=7474:7474 --publish=7687:7687  --name neo4jBDA -v neo4jVolume:/data -d  neo4j

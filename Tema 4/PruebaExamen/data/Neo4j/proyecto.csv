@@ -1,0 +1,4 @@
+id,Nombre,cliente, empleadoResponsable,departamento
+1, ExamenMásDificilQueImposible, 1, 123456,1
+2, ExamenFacil, 1, 1234567,1 
+3, ExamenImposible, 2, 12345678,2
